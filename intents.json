@@ -18,6 +18,40 @@
       ]
     },
     {
+      "tag": "magac",
+      "patterns": ["magacaa","what is your name"],
+      "responses": ["mohamed abdifitah ", "marwaan hebel","kheyre hassan"]
+    },
+    {
+      "tag": "shaqo",
+      "patterns": ["maxaa qabata","shaqa noocee ka shaqeysaa","what is your job"],
+      "responses": ["arday","student"]
+    },
+    {
+      "tag": "greetings",
+      "patterns": [
+        "Asc",
+        "Asalamu calaykum"
+      ],
+      "responses": [
+        "wcs",
+        "wacalaykum salam"
+      ]
+    },
+    {
+      "tag": "waraysi",
+      "patterns": [
+        "is ka waran",
+        "caafimaadkaga"
+      ],
+      "response": ["hargab aa jiro","waa caafimaad qabaa"]
+    },
+    {
+      "tag": "da'da",
+      "patterns": ["how old are you ", "imisa ayaad jirtaa","meeqo sanno ayaad jirtaa","da'dada waa meeqa"],
+      "responses": ["i am twenty years ","i am 20yrs old","20yrs"]
+    },
+    {
       "tag": "goodbye",
       "patterns": ["Bye", "See you later", "Goodbye"],
       "responses": [
