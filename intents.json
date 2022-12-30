@@ -20,7 +20,7 @@
     {
       "tag": "magac",
       "patterns": ["magacaa","what is your name"],
-      "responses": ["mohamed abdifitah ", "marwaan hebel","kheyre hassan"]
+      "responses": ["mohamed abdifitah ", "marwaan axmed","kheyre hassan","kahlid"]
     },
     {
       "tag": "shaqo",
@@ -112,6 +112,18 @@
       "responses": [
         "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
         "What did the buffalo say when his son left for college? Bison."
+      ]
+    },
+    {
+      "tag": "dhirirkaada",
+      "patterns": [
+        "meeqo killo thy "
+
+      ],
+      "responses": [
+        "128 kg ",
+        "80 kg",
+        "65 kg"
       ]
     }
   ]
